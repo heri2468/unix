@@ -1,0 +1,10 @@
+#!/bin/sh
+lastfile=`ls -t *.c | head -1`
+executable=$(expr $lastfile : '\(.*\).c')     # Removes .c; foo.c becomes foo
+command=$0
+case $command in
+        *runc) ./$executable ;;                # Runs the executable
+         *vic) vi $lastfile ;;
+        *comc) cc -o $executable $lastfile && 
+               echo "$lastfile compiled successfully" ;;
+esac

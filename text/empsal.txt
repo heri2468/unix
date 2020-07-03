@@ -1,0 +1,14 @@
+1234|anil A|kumar| e1|ise|12/12/90|45000
+2312|sujit|kumar| e2|ece|12/03/93|40000
+3412|asha | kumari|e1|cse|12/12/17|9
+5432|bhavya|kamath|e1|ise|19/10/18|30000
+4212|    jeevan|joshi|e1|tce|17/08/95|46000
+4215|anitha|kumar|e4|mba|12/09/98|34555
+4123|beena|jain|e2|ece|10/09/96|36000
+3245|vinay|kumar|e1|maths|13/06/98|40800
+5432|harshith|vyas|e2|ise|15/10/98|34567
+6543|aksha|murthy|e1|ise|10/10/90|54322
+5436|chitra|shenoy|e1|ece|01/03/19|28000
+3425|akshay|jain|e2|bt|13/06/97|45900
+1234|kavitha|kumar|e2|cse|13/06/96|60000
+4232|jeevan|jyothi|e1|tce|17/08/95|46000
